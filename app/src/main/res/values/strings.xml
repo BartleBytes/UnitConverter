@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">converter</string>
+    <string-array name="unit_types">
+        <item>Celsius to Fahrenheit</item>
+        <item>Fahrenheit to Celsius</item>
+        <item>Kilometers to Miles</item>
+        <item>Miles to Kilometers</item>
+        <item>Kilograms to Pounds</item>
+        <item>Pounds to Kilograms</item>
+    </string-array>
+</resources>
